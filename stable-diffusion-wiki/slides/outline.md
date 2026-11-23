@@ -2,7 +2,7 @@
 
 ## 生成前檢查
 
-日期：2026-11-23。範圍採用 Wiki 的傳統 StableDiffusionPipeline；不加入 SD3 或 Turbo 的參數建議。所有圖形為概念示意，沒有使用或聲稱真實生圖實驗。
+範圍採用 Wiki 的傳統 StableDiffusionPipeline；不加入 SD3 或 Turbo 的參數建議。所有圖形為概念示意，沒有使用或聲稱真實生圖實驗。
 
 | 頁 | 主題 | Wiki | 來源 |
 |---|---|---|---|
